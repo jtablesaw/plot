@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"tech.tablesaw.api.plot"},{"l":"tech.tablesaw.plotting"},{"l":"tech.tablesaw.plotting.fx"},{"l":"tech.tablesaw.plotting.smile"},{"l":"tech.tablesaw.plotting.xchart"}]

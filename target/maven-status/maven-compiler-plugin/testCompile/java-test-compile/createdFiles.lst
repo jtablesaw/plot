@@ -1,0 +1,13 @@
+tech/tablesaw/api/plot/LinePlotExample.class
+tech/tablesaw/api/plot/ScatterplotExample.class
+tech/tablesaw/api/plot/BoxExample.class
+tech/tablesaw/api/plot/PieExample.class
+tech/tablesaw/plotting/xchart/XchartBubbleTest.class
+tech/tablesaw/plotting/StandardColorsTest.class
+tech/tablesaw/api/plot/HistogramExample.class
+tech/tablesaw/api/plot/BarExample.class
+tech/tablesaw/api/plot/BubbleExample.class
+tech/tablesaw/api/plot/TableViewExample.class
+tech/tablesaw/api/plot/HorizontalBarExample.class
+tech/tablesaw/api/plot/ParetoExample.class
+tech/tablesaw/api/plot/QuantileExample.class
